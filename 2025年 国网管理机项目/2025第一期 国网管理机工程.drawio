@@ -1,4 +1,4 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.8 Chrome/140.0.7339.240 Electron/38.4.0 Safari/537.36" version="28.2.8" pages="2">
   <diagram name="北京郭村" id="FQz5hL-ZfbU9IdgH6g6r">
     <mxGraphModel dx="4907" dy="2825" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -327,6 +327,58 @@
         </mxCell>
         <mxCell id="najXANXPlp0orl8XKsqu-192" value="3#管理机(i3004&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;)IP地址：&lt;/span&gt;&lt;div&gt;&lt;div&gt;192.124.0.100&lt;/div&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="-775" y="-920" width="270" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mgpDhOLTIPaVIkxg_Y0z" name="柳树王">
+    <mxGraphModel dx="1213" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7yN_D3fD4ZW-SjYSjyBK-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="115" y="580" width="150" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7yN_D3fD4ZW-SjYSjyBK-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="580" width="150" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="7yN_D3fD4ZW-SjYSjyBK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="7yN_D3fD4ZW-SjYSjyBK-3" target="7yN_D3fD4ZW-SjYSjyBK-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7yN_D3fD4ZW-SjYSjyBK-3" value="CKJ-04" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="130" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7yN_D3fD4ZW-SjYSjyBK-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7yN_D3fD4ZW-SjYSjyBK-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7yN_D3fD4ZW-SjYSjyBK-5" value="CSPG-3002" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7yN_D3fD4ZW-SjYSjyBK-6" value="28G&amp;nbsp; 主变进线柜" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="448" y="540" width="216" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7yN_D3fD4ZW-SjYSjyBK-7" value="ID:1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="820" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7yN_D3fD4ZW-SjYSjyBK-8" value="SN号：未知" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="595" width="90" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7yN_D3fD4ZW-SjYSjyBK-9" value="国网新疆喀什柳树王110kv变电站新建项目" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="200" y="250" width="442" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7yN_D3fD4ZW-SjYSjyBK-10" value="引出到后台" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="620" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7yN_D3fD4ZW-SjYSjyBK-11" value="iedname:i3002" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="504" y="340" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7yN_D3fD4ZW-SjYSjyBK-12" value="ip地址：192.168.2.75" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="494" y="395" width="266" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7yN_D3fD4ZW-SjYSjyBK-14" value="20G" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="160" y="550" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
